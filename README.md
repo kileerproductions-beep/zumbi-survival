@@ -1,8 +1,7 @@
 # Zumbi Survival (Godot 4.3+)
 [gd_scene load_steps=2 format=3]
 [gd_scene load_steps=2 format=3]
-
-[ext_resource type="Script" path="res://main.gd" id="1"]
+res://main.gd ou res://scripts/main.gd.
 
 [node name="Main" type="Node3D"]
 script = ExtResource("1")
