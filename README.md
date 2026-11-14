@@ -1,5 +1,10 @@
 # Zumbi Survival (Godot 4.3+)
+[gd_scene load_steps=2 format=3]
 
+[ext_resource type="Script" path="res://main.gd" id="1"]
+
+[node name="Main" type="Node3D"]
+script = ExtResource("1")
 Etapas 1-4 (protótipo): personagem, câmera, controles mobile, interação contextual e primeiro cenário (casa, carro, floresta).
 
 ## Rodar no PC
